@@ -1,5 +1,3 @@
-# leolopes.github.io
-Meu site pessoal e portfólio profissional.
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
